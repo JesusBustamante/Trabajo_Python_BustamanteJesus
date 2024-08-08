@@ -1,3 +1,21 @@
 [
-
+    {
+        "fecha": "2024-08-07",
+        "cliente": {
+            "nombre": "Jose",
+            "direccion": "Miraflores"
+        },
+        "empleado": {
+            "nombre": "Luis",
+            "cargo": "Cajero"
+        },
+        "productos": [
+            {
+                "nombre": "Glaseado de Vainilla",
+                "cantidad": 3,
+                "precio": 3000,
+                "total": 9000
+            }
+        ]
+    }
 ]

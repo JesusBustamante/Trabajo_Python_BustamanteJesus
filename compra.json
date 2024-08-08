@@ -1,7 +1,17 @@
 [
     {
-        "fecha": "14/12/2006",
-        "InfoCliente": "Carlos, 3156611676",
-        "Pruducto": "Manzana, 15, 50000"
+        "fecha": "2024-08-07",
+        "proveedor": {
+            "nombre": "Jose",
+            "contacto": "320 555 33 22"
+        },
+        "productos": [
+            {
+                "nombre": "Pan con Salchicha",
+                "cantidad": 12,
+                "precio_compra": 1000.0,
+                "total": 12000.0
+            }
+        ]
     }
 ]

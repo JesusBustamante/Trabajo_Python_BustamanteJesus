@@ -1,0 +1,49 @@
+{
+    "Panaderia": {
+        "Pan de Bono": {"precio": 700, "cantidad": 45},
+        "Pan de Queso": {"precio": 800, "cantidad": 32},
+        "Pan Cascarita": {"precio": 500, "cantidad": 78},
+        "Pan de Yuca": {"precio": 800, "cantidad": 21},
+        "Calentano": {"precio": 700, "cantidad": 64},
+        "Rollito de Sal": {"precio": 900, "cantidad": 15},
+        "Pan Integral": {"precio": 700, "cantidad": 88},
+        "Pan relleno de Arequipe": {"precio": 1150, "cantidad": 50},
+        "Pan con Salchicha": {"precio": 1300, "cantidad": 60},
+        "Pan recubierto de Chocolate": {"precio": 1200, "cantidad": 40}
+    },
+    "Pasteleria": {
+        "Pastel de Vainilla": {"precio": 5000, "cantidad": 30},
+        "Pastel de Chocolate": {"precio": 5500, "cantidad": 20},
+        "Pastel de bodas": {"precio": 10000, "cantidad": 5},
+        "Glaseado de Vainilla": {"precio": 3000, "cantidad": 25},
+        "Glaseado de Chocolate": {"precio": 3500, "cantidad": 18},
+        "Pastel de Arequipe": {"precio": 5700, "cantidad": 12},
+        "Pastel de Oreo": {"precio": 7000, "cantidad": 10},
+        "Postre de Limon": {"precio": 4300, "cantidad": 35},
+        "Postre de Vainilla": {"precio": 4000, "cantidad": 40},
+        "Postre de Tres Leches": {"precio": 4500, "cantidad": 22}
+    },
+    "Bebidas": {
+        "Coca-Cola": {"precio": 3000, "cantidad": 50},
+        "Pepsi": {"precio": 2900, "cantidad": 45},
+        "Red-Bull": {"precio": 4000, "cantidad": 30},
+        "Gatorade": {"precio": 3700, "cantidad": 40},
+        "Budweiser": {"precio": 3200, "cantidad": 25},
+        "Hit": {"precio": 2500, "cantidad": 60},
+        "Pony-Malta": {"precio": 2300, "cantidad": 55},
+        "Sprite": {"precio": 3200, "cantidad": 48},
+        "Monster": {"precio": 3000, "cantidad": 35},
+        "Tropicana": {"precio": 2400, "cantidad": 38},
+        "-Promociones-": "Algunas promociones de la seccion de Bebidas",
+        "1 Pan con Salchicha y 1 Pony Malta": {"precio": 3000, "cantidad": 20},
+        "1 Postre de Oreo y 1 Budweiser": {"precio": 9000, "cantidad": 10}
+    },
+    "Apartado de promociones": {
+        "6 Panes Integrales": {"precio": 4000, "cantidad": 10},
+        "5 Panes recubiertos de Chocolate": {"precio": 5500, "cantidad": 8},
+        "3 Pasteles de Vainilla": {"precio": 13000, "cantidad": 6},
+        "4 Postres de Oreo": {"precio": 25000, "cantidad": 4},
+        "1 Pan con Salchicha y 1 Pony Malta": {"precio": 3000, "cantidad": 15},
+        "1 Postre de Oreo y 1 Budweiser": {"precio": 9000, "cantidad": 7}
+    }
+}
